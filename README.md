@@ -102,10 +102,10 @@ Have a nice day. 🍉
 
 Here is a selection of peer-reviewed or authoritative sources that support the concerns raised in this proposal:
 
-* Hartung, William D. (2021). *The Profiteers: How the Arms Industry Fuels Wars Around the World*. Quincy Institute for Responsible Statecraft. [Link](https://quincyinst.org/report/the-profiteers/)
+* Hartung, William D. (2021). *The Profiteers: How the Arms Industry Fuels Wars Around the World*. Quincy Institute for Responsible Statecraft. [Archived Link](https://web.archive.org/web/20220131061155/https://quincyinst.org/report/the-profiteers/)
 * Stockholm International Peace Research Institute (SIPRI). *SIPRI Yearbook 2023*. [Link](https://www.sipri.org/yearbook/2023)
 * Brauer, J. & Dunne, P. (2012). *Arms Trade and Economic Development: Theory, Policy, and Cases in Arms Trade Offsets*. Routledge.
-* Bloomberg News. (2022). *Defense Stocks Surge After Ukraine Invasion*. [Link](https://www.bloomberg.com/news/articles/2022-02-28/defense-stocks-surge-as-invasion-fuels-demand)
+* Reuters (2025). *“Beyond fundamentals: is Europe’s arms race priced in?”* — discusses how defense stocks surged after EU leaders increased defense spending, with some individual defense companies up 20–30%. [Link](https://www.reuters.com/markets/europe/beyond-fundamentals-is-europes-arms-race-priced-2025-03-04/)
 
 ---
 
