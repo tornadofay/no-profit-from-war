@@ -8,7 +8,7 @@ How many of us are truly tired of war? Tired of lost dreams, of hopes buried und
 
 I am. And I want to say, *enough is enough* — in the most respectful, peaceful, and legal way possible.
 
-I’m writing from Egypt — just an ordinary person who feels that we have been used by a global system that profits from conflict. This document presents a practical, ethical proposal to reduce the incentive for war by removing its profit motive.
+I’m just an ordinary person who feels that we have been used by a global system that profits from conflict. This document presents a practical, ethical proposal to reduce the incentive for war by removing its profit motive.
 
 ---
 
