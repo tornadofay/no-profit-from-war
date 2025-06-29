@@ -80,7 +80,8 @@ I’m not a lawyer, but I believe:
 
 * **International law exists to protect the weak.** If not for that, whom does it protect?
 * **Laws evolve with society.** Judges and lawmakers must adapt to new moral awareness, ensuring that powerful actors face constraints before the vulnerable suffer.
-* **Justice demands ambition.** Drafting new legal principles to restrain the powerful is not impossible — it’s necessary.
+* **Justice demands ambition.** Drafting new legal principles to restrain the powerful is not impossible, it's necessary.
+
 
 
 > “There is a fundamental issue with this.
