@@ -62,13 +62,19 @@ Only with a governmental sponsor can this idea move from grassroots to global po
 
 ---
 
-## 💸 Fundraiser Plan
+## 💸 Theoretical Funding Concept (Not a Donation Request)
 
-I have no bank account, nor do I want one. But I envision:
+This is not a fundraiser, and I am not collecting donations.I do not intend to manage or launch any funding campaign myself.
 
-> Launching a public fundraiser (GoFundMe or similar) to raise donations from ordinary people.
-> The goal: to fund the hiring of an **international human rights lawyer** or to partner with a respected **NGO**.
-> They will act on behalf of the people — not governments — to submit legal motions or draft new international law restricting private arms investments.
+The following is merely a theoretical model to show how global citizens could, in principle, support this idea if it were ever taken seriously by legal professionals or international organizations:
+
+> A grassroots fundraiser (e.g., via GoFundMe or similar) could be launched in the future, not by me personally, but by a recognized and transparent third party.
+> 
+> Its aim would be to fund an **international human rights legal team**, or to empower a **respected NGO** to advocate for this initiative in international law forums or courts.
+> 
+> The purpose would be to **represent global citizens**, not specific governments, in drafting and submitting new legal standards that prohibit private profiteering from warfare.
+
+This vision assumes full transparency, independent oversight, and strict legal compliance and it remains just that: a vision.
 
 ---
 
