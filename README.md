@@ -6,7 +6,7 @@
 
 How many of us are truly tired of war? Tired of lost dreams, of hopes buried under rubble, of children crying in the dust of destroyed homes?
 
-I am. And I want to say, *enough is enough* — in the most respectful, peaceful, and legal way possible.
+I am. And I want to say, *enough is enough* in the most respectful, peaceful, and legal way possible.
 
 I’m just an ordinary person who feels that we have been used by a global system that profits from conflict. This document presents a practical, ethical proposal to reduce the incentive for war by removing its profit motive.
 
@@ -23,7 +23,7 @@ I’m just an ordinary person who feels that we have been used by a global syste
 ## 💡 Proposal
 
 1. **Delisting Military Divisions:** Make it illegal for individuals or private funds to invest in the military divisions of arms companies. These divisions must be delisted from all public stock exchanges.
-2. **Government-Only Ownership:** Limit investment in arms manufacturing to national governments, under full transparency and accountability appropriate to each country's system of governance — whether democratic, monarchical, or otherwise — as long as it ensures ethical control over arms trade and full transparency.
+2. **Government-Only Ownership:** Limit investment in arms manufacturing to national governments, under full transparency and accountability appropriate to each country's system of governance, whether democratic, monarchical, or otherwise, as long as it ensures ethical control over arms trade and full transparency.
 3. **Separate Civilian Operations:** Allow civilian branches (aviation, research, logistics) to remain publicly tradable.
 
 This removes the financial incentive to prolong or provoke war without banning defense capabilities.
