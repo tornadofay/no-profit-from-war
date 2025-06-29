@@ -6,7 +6,7 @@
 
 How many of us are truly tired of war? Tired of lost dreams, of hopes buried under rubble, of children crying in the dust of destroyed homes?
 
-I am. And I want to say, *enough is enough* in the most respectful, peaceful, and legal way possible.
+I am. And I want to say, *enough is enough* — in the most respectful, peaceful, and legal way possible.
 
 I’m just an ordinary person who feels that we have been used by a global system that profits from conflict. This document presents a practical, ethical proposal to reduce the incentive for war by removing its profit motive.
 
@@ -23,7 +23,7 @@ I’m just an ordinary person who feels that we have been used by a global syste
 ## 💡 Proposal
 
 1. **Delisting Military Divisions:** Make it illegal for individuals or private funds to invest in the military divisions of arms companies. These divisions must be delisted from all public stock exchanges.
-2. **Government-Only Ownership:** Limit investment in arms manufacturing to national governments, under full transparency and accountability appropriate to each country's system of governance, whether democratic, monarchical, or otherwise, as long as it ensures ethical control over arms trade and full transparency.
+2. **Government-Only Ownership:** Limit investment in arms manufacturing to national governments, under full transparency and accountability appropriate to each country's system of governance — whether democratic, monarchical, or otherwise — as long as it ensures ethical control over arms trade and full transparency.
 3. **Separate Civilian Operations:** Allow civilian branches (aviation, research, logistics) to remain publicly tradable.
 
 This removes the financial incentive to prolong or provoke war without banning defense capabilities.
@@ -72,7 +72,7 @@ I have no bank account, nor do I want one. But I envision:
 
 ---
 
-## 🧠 Anticipating Criticism & My Response
+## 🧠 Criticism & My Response
 
 > “International law isn’t meant for this kind of issue.”
 
@@ -81,6 +81,45 @@ I’m not a lawyer, but I believe:
 * **International law exists to protect the weak.** If not for that, whom does it protect?
 * **Laws evolve with society.** Judges and lawmakers must adapt to new moral awareness, ensuring that powerful actors face constraints before the vulnerable suffer.
 * **Justice demands ambition.** Drafting new legal principles to restrain the powerful is not impossible — it’s necessary.
+
+
+> “There is a fundamental issue with this.
+>
+> The people in Congress are the only ones, maybe the President with EO, who can set these rules. These are the same people who benefit from early warnings and policies for war.
+>
+> So if they are making bank, what reason do you have to convince them to make less money? And don't bother with ethics or humanity. They have been profiting off of this for a while now. Your argument won't convince them differently.”
+
+That's a valid point, and I don't deny the conflict of interest within many governments, including Congress.
+
+But my proposal isn't about expecting the same individuals who profit from war to suddenly grow a conscience, it's about creating pressure through international humanitarian law.
+
+The goal is to make this a **global legal standard**, not just a national policy. If codified into international law similar to bans on chemical weapons or child soldiers this kind of restriction could transcend individual governments and become part of the legal fabric nations are expected to follow.
+
+Implementation wouldn't be overnight. A law like this would likely come with a transition period to allow markets and companies to adjust.
+
+And just like with other violations of international humanitarian law, countries that refuse to comply could face global consequences: diplomatic pressure, sanctions, or reputational damage. It's not about moral appeals it's about real enforceable structures that shift the cost-benefit balance away from war profiteering.
+
+
+> “How about cigarette companies, or alcohol companies, or gun companies, or car companies? You could argue that all of them are profiting off death.
+> Plus, privately owned defense contractors still means that individuals are profitting off war. Hell, even just having individuals working to develop and manufacture weapons means they're profitting from war.”
+
+I'd say that when someone smokes or drinks, they are at least making a personal choice. It's a form of self-inflicted harm.
+But in war, the people dying never consented. Civilians don't sign up to be bombed. It's harm inflicted on others often the most vulnerable *without their will or involvement*.
+
+To be clear, I’m not excusing other harmful industries. In fact, I believe many of them like tobacco or alcohol  *do* profit off long-term death and suffering.
+But the difference is in urgency and agency. War kills directly, indiscriminately, and without the victim’s choice.
+
+Also, to answer the "Plus" part: How much moral responsibility does an individual bear when they are part of a system that produces harm but they themselves have no real control over the outcomes?
+
+That's why I think it's crucial to draw a distinction between:
+
+* Those who survive within a system, and
+* Those who profit passively from the continuation of that harm, without suffering its consequences.
+
+One is a cog in the machine.
+The other owns the machine and earns when it kills.
+
+The aim of my proposal is to target the latter, not the former.
 
 ---
 
@@ -102,7 +141,7 @@ Have a nice day. 🍉
 
 Here is a selection of peer-reviewed or authoritative sources that support the concerns raised in this proposal:
 
-* Hartung, William D. (2021). *The Profiteers: How the Arms Industry Fuels Wars Around the World*. Quincy Institute for Responsible Statecraft. [Summary Article](https://responsiblestatecraft.org/2021/11/29/the-profiteers-how-the-arms-industry-fuels-wars-around-the-world/) (original report no longer available, I wonder why?! )
+* Hartung, William D. (2021). *The Profiteers: How the Arms Industry Fuels Wars Around the World*. Quincy Institute for Responsible Statecraft. [Archived Link](https://web.archive.org/web/20220131061155/https://quincyinst.org/report/the-profiteers/)
 * Stockholm International Peace Research Institute (SIPRI). *SIPRI Yearbook 2023*. [Link](https://www.sipri.org/yearbook/2023)
 * Brauer, J. & Dunne, P. (2012). *Arms Trade and Economic Development: Theory, Policy, and Cases in Arms Trade Offsets*. Routledge.
 * Reuters (2025). *“Beyond fundamentals: is Europe’s arms race priced in?”* — discusses how defense stocks surged after EU leaders increased defense spending, with some individual defense companies up 20–30%. [Link](https://www.reuters.com/markets/europe/beyond-fundamentals-is-europes-arms-race-priced-2025-03-04/)
